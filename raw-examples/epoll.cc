@@ -1,7 +1,7 @@
 /*
  * 编译：c++ -o epoll epoll.cc
  * 运行： ./epoll
- * 测试：curl -v localhost
+ * 测试：curl -v localhost ....
  */
 #include <sys/socket.h>
 #include <sys/epoll.h>
